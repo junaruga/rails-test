@@ -19,6 +19,7 @@
 /rails/*/app/db
 /rails/*/app/lib
 /rails/*/app/log
+/rails/*/app/package.json
 /rails/*/app/public
 /rails/*/app/test
 /rails/*/app/tmp
