@@ -7,3 +7,19 @@
 *~
 # Hidemaru
 *.BAK
+# This project
+.bundle
+/rails/*/app/.gitignore
+/rails/*/app/README.md
+/rails/*/app/Rakefile
+/rails/*/app/app
+/rails/*/app/bin
+/rails/*/app/config.ru
+/rails/*/app/config
+/rails/*/app/db
+/rails/*/app/lib
+/rails/*/app/log
+/rails/*/app/public
+/rails/*/app/test
+/rails/*/app/tmp
+vendor
