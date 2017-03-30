@@ -13,7 +13,7 @@ if [ "${#}" -ne 1 ]; then
 Usage: ${0} RAILS_VERSION
 
 Arguments
-  - RAILS_VERSION: ex. "5.0.1", "5.1.0.rc"
+  - RAILS_VERSION: ex. "5.0.1", "5.1.0.rc1"
 EOF
     exit 1
 fi

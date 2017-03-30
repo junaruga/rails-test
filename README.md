@@ -1,10 +1,11 @@
-# rails-test
+# rails-tester
 A script to check a Rails pacakge depenency and test running the Rails.
 
 ## Usage
 
 The script will install Rails to `rails/RAILS_VERSION/`,
 and create Rails application (`rails new app`) to `rails/RAILS_VERSION/app`.
+RAILS_VERSION is such as "5.0.1", "5.1.0.rc1" in [RubyGems.org rails page](https://rubygems.org/gems/rails).
 
 ```bash
 $ scripts/run.sh RAILS_VERSION
