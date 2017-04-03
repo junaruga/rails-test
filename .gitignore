@@ -17,10 +17,12 @@
 /rails/*/app/config.ru
 /rails/*/app/config
 /rails/*/app/db
+/rails/*/app/doc
 /rails/*/app/lib
 /rails/*/app/log
 /rails/*/app/package.json
 /rails/*/app/public
+/rails/*/app/script
 /rails/*/app/test
 /rails/*/app/tmp
 vendor
