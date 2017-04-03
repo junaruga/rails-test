@@ -1,4 +1,4 @@
-# rails-tester
+# rails-install-tester
 A script to check a Rails pacakge depenency and test running the Rails.
 
 ## Usage
