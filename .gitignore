@@ -10,7 +10,7 @@
 # This project
 .bundle
 /rails/*/app/.gitignore
-/rails/*/app/README.md
+/rails/*/app/README.*
 /rails/*/app/Rakefile
 /rails/*/app/app
 /rails/*/app/bin
