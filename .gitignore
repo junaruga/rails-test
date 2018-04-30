@@ -9,7 +9,7 @@
 *.BAK
 # This project
 .bundle
-/rails/*/app/.gitignore
+/rails/*/app/.*
 /rails/*/app/README.*
 /rails/*/app/Rakefile
 /rails/*/app/app
