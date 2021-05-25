@@ -35,6 +35,7 @@ bundle exec rails new app --skip-bundle
 pushd app
 bundle install --path vendor/bundle
 bundle list > bundle_list.txt
+rm -rf .git
 popd
 
 popd

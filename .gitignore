@@ -23,6 +23,7 @@
 /rails/*/app/package.json
 /rails/*/app/public
 /rails/*/app/script
+/rails/*/app/storage
 /rails/*/app/test
 /rails/*/app/tmp
 vendor
